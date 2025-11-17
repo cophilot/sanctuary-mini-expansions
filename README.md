@@ -1,17 +1,17 @@
-# Sanctuary Mini Expansions: _Competitive Conservation Board_ and _Refresh Display Board Jokers_
+# Artengarten Mini-Erweiterungen: _Kompetitive Artenschutzprojekte und Auslage-Auffrisch-Joker_
 
-> **DISCLAIMER: This is not an official Expansion for Sanctuary!**
+> **HINWEIS: Dies ist keine offizielle Erweiterung für Artengarten!**
 
-## Print and Play
+## Drucken und Spielen
 
-Print the [Components](components.pdf) file, which contains both the Competitive Conservation Board and the Refresh Display Board Jokers, in standard A4 size (210mm x 297mm / 8.27" x 11.69") format. For best results, print on cardstock and cut out the board and jokers along the indicated lines. Optionally laminate the components for durability.
+Drucke die [Komponenten](components.pdf) Datei, welche sowohl die Kompetitive Artenschutzprojekte Tafel als auch die Auslage-Auffrisch-Joker enthält, im Standard-A4-Format (210 mm × 297 mm / 8.27" × 11.69"). Für beste Ergebnisse auf Karton drucken und die Tafel sowie die Joker entlang der markierten Linien ausschneiden. Optional können die Komponenten für höhere Haltbarkeit laminiert werden.
 
-## Competitive Conservation Board
+## Kompetitive Artenschutzprojekte
 
-To play with the Competitive Conservation Board, first place it on top of the original conservation board, aligning it so that the end-game conditions remain visible underneath. Then place five random conservation objectives on the designated spaces. The rules for supporting a conservation objective remain unchanged, with one important modification: for each objective, only one of each multiplier value (x2, x3, x4, x5) may be used. If a spot where you intend to place your marker is already occupied, you may not place a marker there. As before, each player may support any given objective only once.
+Um mit den kompetitiven Artenschutzprojekten zu spielen, lege sie zuerst auf die originale Artenschutzprojekte-Tafel, wobei du sie so ausrichtest, dass die Endspielbedingungen darunter weiterhin sichtbar bleiben. Lege anschließend fünf zufällige Naturschutzziele auf die vorgesehenen Felder. Die Regeln zum Unterstützen eines Ziels bleiben unverändert, mit einer wichtigen Anpassung: Für jedes Ziel darf nur ein Marker pro Multiplikatorwert (x2, x3, x4, x5) verwendet werden. Wenn das Feld, auf das du deinen Marker setzen möchtest, bereits belegt ist, darfst du dort keinen Marker platzieren. Wie zuvor darf jeder Spieler jedes Ziel nur einmal unterstützen.
 
-![Competitive Conservation Board](example/board.jpg)
+![Kompetitive Artenschutzprojekte-Tafel](example/board.jpg)
 
-## Refresh Display Board Jokers
+## Auslage-Auffrisch-Joker
 
-During setup, decide whether each player will receive one or two jokers, and distribute them accordingly. At the start of a player’s turn—specifically before taking the first action in which a tile is drawn from the display—they may spend a joker to clear all tiles currently shown and refresh the display with new ones, after which the turn continues as normal. Jokers are permanently discarded when used and cannot be regained later in the game. If players begin with two jokers, they may only use one per turn.
+Während des Aufbaus wird festgelegt, ob jeder Spieler einen oder zwei Joker erhält, und diese werden entsprechend verteilt. Zu Beginn des Zuges eines Spielers – genauer gesagt, bevor die erste Aktion ausgeführt wird, in der ein Plättchen aus der Auslage gezogen wird – kann er einen Joker ausgeben, um alle derzeit ausliegenden Plättchen zu entfernen und die Auslage mit neuen Plättchen aufzufrischen; danach läuft der Zug wie gewohnt weiter. Joker werden bei Verwendung dauerhaft abgelegt und können später im Spiel nicht zurückerlangt werden. Wenn Spieler mit zwei Jokern starten, dürfen sie trotzdem nur einen pro Zug verwenden.
