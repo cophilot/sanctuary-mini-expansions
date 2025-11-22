@@ -14,4 +14,13 @@ To play with the Competitive Conservation Board, first place it on top of the or
 
 ## Refresh Display Board Jokers
 
-During setup, decide whether each player will receive one or two jokers, and distribute them accordingly. At the start of a player’s turn—specifically before taking the first action in which a tile is drawn from the display—they may spend a joker to clear all tiles currently shown and refresh the display with new ones, after which the turn continues as normal. Jokers are permanently discarded when used and cannot be regained later in the game. If players begin with two jokers, they may only use one per turn.
+During setup, decide whether each player will receive one or two jokers, and distribute them accordingly. At the start of a player’s turn—specifically before taking the first action in which a tile is drawn from the display—they may spend a joker to clear N-7 (where N is the number of players) tiles currently shown and refresh the display with new ones, after which the turn continues as normal. Jokers are permanently discarded when used and cannot be regained later in the game. If players begin with two jokers, they may only use one per turn.
+
+Table of cards to remove based on number of players:
+
+| Number of Players | Tiles to Remove |
+| ----------------- | --------------- |
+| 2                 | 5               |
+| 3                 | 4               |
+| 4                 | 3               |
+| 5                 | 2               |
