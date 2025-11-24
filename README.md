@@ -14,4 +14,13 @@ Um mit den kompetitiven Artenschutzprojekten zu spielen, lege sie zuerst auf die
 
 ## Auslage-Auffrisch-Joker
 
-Während des Aufbaus wird festgelegt, ob jeder Spieler einen oder zwei Joker erhält, und diese werden entsprechend verteilt. Zu Beginn des Zuges eines Spielers – genauer gesagt, bevor die erste Aktion ausgeführt wird, in der ein Plättchen aus der Auslage gezogen wird – kann er einen Joker ausgeben, um alle derzeit ausliegenden Plättchen zu entfernen und die Auslage mit neuen Plättchen aufzufrischen; danach läuft der Zug wie gewohnt weiter. Joker werden bei Verwendung dauerhaft abgelegt und können später im Spiel nicht zurückerlangt werden. Wenn Spieler mit zwei Jokern starten, dürfen sie trotzdem nur einen pro Zug verwenden.
+Entscheiden Sie während der Vorbereitung, ob jeder Spieler einen oder zwei Joker erhält, und verteilen Sie diese entsprechend. Zu Beginn seines Zuges – genauer gesagt, bevor er die erste Aktion ausführt, bei der er einen Spielstein aus der Auslage zieht – kann ein Spieler einen Joker einsetzen, um N-7 (wobei N die Anzahl der Spieler ist) der aktuell ausliegenden Plättchen zu entfernen und die Auslage mit neuen Plättchen aufzufrischen. Danach wird der Zug wie gewohnt fortgesetzt. Joker werden nach ihrem Einsatz endgültig abgelegt und können im weiteren Spielverlauf nicht wieder zurückgewonnen werden. Wenn Spieler mit zwei Jokern beginnen, dürfen sie pro Zug nur einen Joker einsetzen.
+
+Tabelle der zu entfernenden Plättchen basierend auf der Anzahl der Spieler:
+
+| Spieleranzahl | Zu entfernende Plättchenanzahl |
+| ------------- | ------------------------------ |
+| 2             | 5                              |
+| 3             | 4                              |
+| 4             | 3                              |
+| 5             | 2                              |
